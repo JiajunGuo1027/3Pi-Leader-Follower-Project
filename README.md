@@ -3,8 +3,8 @@
 ## Overview
 This project investigates the optimal combination of sensors for leader-follower systems using the Pololu 3pi+ robots. The goal is to improve signal detection accuracy, tracking stability, and response time under various motion scenarios, including constant speed, variable speed, and sudden turns.
 
-![The Pololu 3pi+ Robots Used in Experiments](image/Figure 1. The Pololu 3pi+ Robots Used in Experiments.png)
-![Sensor Distribution in Pololu 3pi+ Robot System](image/Figure 2. Sensor Distribution in Pololu 3pi+ Robot System.png)
+![The Pololu 3pi+ Robots Used in Experiments](images/The-Pololu-3pi+-Robots-Used-in-Experiments.png)
+![Sensor Distribution in Pololu 3pi+ Robot System](images/Sensor-Distribution-in-Pololu-3pi+-Robot-System.png)
 
 ## Key Features
 - **Sensor Configurations**:
@@ -32,10 +32,10 @@ The experiments included:
 - The optimal performance was achieved with the combination of three middle line sensors and the left bump sensor.
 - The fusion of these sensors resulted in a signal detection accuracy of 99% and a response time delay of approximately 400 milliseconds.
 
-![Sensor Readings over Time in Calibration Periods](image/Figure 4. Sensor Readings over Time in Calibration Periods.png)
-![Distance deviation during the stopping phase based on 35 repeated experiments](image/Figure 5. Distance deviation during the stopping phase based on 35 repeated experiments.png)
-![Readings of Four Selected Sensors in the Experiment   (The blue line represents real-time readings, while the green and orange lines indicate the experimentally determined optimal distance range.)](image/Figure 6. Readings of Four Selected Sensors in the Experiment   (The blue line represents real-time readings, while the green and orange lines indicate the experimentally determined optimal distance range.).png)
-![Range of Sensor Readings in Sudden Turn Motion](image/Figure 8. Range of Sensor Readings in Sudden Turn Motion.png)
+![Sensor Readings over Time in Calibration Periods](images/Sensor-Readings-over-Time-in-Calibration-Periods.png)
+![Distance deviation during the stopping phase based on 35 repeated experiments](images/Distance-deviation-during-the-stopping-phase-based-on-35-repeated-experiments)
+![Readings of Four Selected Sensors in the Experiment   (The blue line represents real-time readings, while the green and orange lines indicate the experimentally determined optimal distance range.)](images/Readings-of-Four-Selected-Sensors-in-the-Experiment-The-blue-line-represents-real-time-readings-while-the-green-and-orange-lines-indicate-the-experimentally-determined-optimal-distance-range.png)
+![Range of Sensor Readings in Sudden Turn Motion](images/Range-of-Sensor-Readings-in-Sudden-Turn-Motion.png)
 
 
 ## Getting Started
