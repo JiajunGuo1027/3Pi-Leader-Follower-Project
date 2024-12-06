@@ -33,7 +33,7 @@ The experiments included:
 - The fusion of these sensors resulted in a signal detection accuracy of 99% and a response time delay of approximately 400 milliseconds.
 
 ![Sensor Readings over Time in Calibration Periods](images/Sensor-Readings-over-Time-in-Calibration-Periods.png)
-![Distance deviation during the stopping phase based on 35 repeated experiments](images/Distance-deviation-during-the-stopping-phase-based-on-35-repeated-experiments)
+![Distance deviation during the stopping phase based on 35 repeated experiments](images/Distance-deviation-during-the-stopping-phase-based-on-35-repeated-experiments.png)
 ![Readings of Four Selected Sensors in the Experiment   (The blue line represents real-time readings, while the green and orange lines indicate the experimentally determined optimal distance range.)](images/Readings-of-Four-Selected-Sensors-in-the-Experiment-The-blue-line-represents-real-time-readings-while-the-green-and-orange-lines-indicate-the-experimentally-determined-optimal-distance-range.png)
 ![Range of Sensor Readings in Sudden Turn Motion](images/Range-of-Sensor-Readings-in-Sudden-Turn-Motion.png)
 
